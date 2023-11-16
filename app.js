@@ -3,7 +3,7 @@ const tab=[
     id:1,
     name:"Paryż",
     contynent:"Europa Zachodnia",
-    img:"./images/paryż.png",
+    img:"./images/paryz.png",
     text:"Paryż stolica i najludniejsze miasto Francji. Położone jest w północnej części kraju, w centrum Basenu Paryskiego, nad Sekwaną. Stanowi centrum polityczne, ekonomiczne i kulturalne kraju. W Paryżu znajduje się wiele zabytków z różnych epok, dzieł sztuki, budowli architektonicznych, muzeów, uczelni oraz instytucji o znaczeniu międzynarodowym. Paryż to również światowe centrum mody i sztuki."
     },
     {
